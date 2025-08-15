@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Pratikshadk12/Pratikshadk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passionate about building practical coding projects and steadily growing my skills in programming, software development, and soon, AI/ML.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+### 🚀 Recent Projects  
+
+- 📚 **[Library Management System (C++)](#)** – Console app to manage library books  
+- 🏦 **[Bank Management System (C)](#)** – Simple banking simulation with deposits & withdrawals  
+- 💰 **[Personal Expense Tracker (Java)](#)** – Track expenses with file storage  
+- 🎓 **[Student Management System (Java)](#)** – Manage student data with file handling  
+
+---
+
+### 📅 Goals for 2025  
+
+- 📌 Build **10+ portfolio-worthy projects**  
+- 📌 Master **DSA & core programming** concepts  
+- 📌 Start working on **AI/ML-based projects** by year end  
+- 📌 Contribute to **open-source**  
+
+---
+
+### 📫 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratikshadk12)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+
+---
+
+### 📊 GitHub Stats  
+
+![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshadk12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7)  
+
+---
+
+### 📈 Contribution Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratikshadk12&theme=github-compact&hide_border=true&area=true&area_color=FF6EC7&line=FF6EC7&point=FFFFFF)  
+
+---
+
+### ⚡ Fun Fact  
+
+> I believe in **"Learning by Doing"**, so most of my projects are built from scratch to understand concepts better. 🚀  
