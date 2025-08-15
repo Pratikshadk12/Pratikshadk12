@@ -36,7 +36,7 @@ I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passion
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratikshadk12)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-d-korishettar/)  
-[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](pratikshavdk@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshavdk@gmail.com)  
 
 ---
 
