@@ -44,8 +44,6 @@ I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passion
 
 ![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshadk12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7)  
-
 ---
 
 ### 📈 Contribution Graph  
