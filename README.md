@@ -16,10 +16,10 @@ I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passion
 
 ### 🚀 Recent Projects  
 
-- 📚 **[Library Management System (C++)](#)** – Console app to manage library books  
-- 🏦 **[Bank Management System (C)](#)** – Simple banking simulation with deposits & withdrawals  
-- 💰 **[Personal Expense Tracker (Java)](#)** – Track expenses with file storage  
-- 🎓 **[Student Management System (Java)](#)** – Manage student data with file handling  
+- 📚 **[Library Management System (C++)](https://github.com/Pratikshadk12/Library-Management-System)** – Console app to manage library books  
+- 🏦 **[Bank Management System (C)](https://github.com/Pratikshadk12/Bank-Management-System)** – Simple banking simulation with deposits & withdrawals  
+- 💰 **[Personal Expense Tracker (Java)](https://github.com/Pratikshadk12/Personal-Expense-Tracker)** – Track expenses with file storage  
+- 🎓 **[Student Management System (Java)](https://github.com/Pratikshadk12/student-management-system)** – Manage student data with file handling  
 
 ---
 
@@ -35,8 +35,8 @@ I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passion
 ### 📫 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratikshadk12)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-d-korishettar/)  
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](pratikshavdk@gmail.com)  
 
 ---
 
