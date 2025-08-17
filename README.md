@@ -19,7 +19,9 @@ I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passion
 - 📚 **[Library Management System (C++)](https://github.com/Pratikshadk12/Library-Management-System)** – Console app to manage library books  
 - 🏦 **[Bank Management System (C)](https://github.com/Pratikshadk12/Bank-Management-System)** – Simple banking simulation with deposits & withdrawals  
 - 💰 **[Personal Expense Tracker (Java)](https://github.com/Pratikshadk12/Personal-Expense-Tracker)** – Track expenses with file storage  
-- 🎓 **[Student Management System (Java)](https://github.com/Pratikshadk12/student-management-system)** – Manage student data with file handling  
+- 🎓 **[Student Management System (Java)](https://github.com/Pratikshadk12/student-management-system)** – Manage student data with file handling
+- 🌤️ **[Weather App (Python)](https://github.com/Pratikshadk12/Weather-App)** – Tkinter-based GUI app fetching real-time weather via API
+- 🔑 **[Password Manager (Python)](https://github.com/Pratikshadk12/Password-Manager)** – Securely store and manage passwords using file handling
 
 ---
 
