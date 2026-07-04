@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I’m **Pratiksha**, a 2nd Year **AIML Student** at **Reva University**, passionate about building practical coding projects and steadily growing my skills in programming, software development, and soon, AI/ML.  
+I’m **Pratiksha**, a Final Year **AIML Student** at **Reva University**, passionate about building practical coding projects and steadily growing my skills in programming, software development, and soon, AI/ML.  
 
 ---
 
