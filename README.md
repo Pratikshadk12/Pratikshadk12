@@ -15,7 +15,9 @@ I’m **Pratiksha**, a Final Year **AIML Student** at **Reva University**, passi
 ---
 
 ### 🚀 Recent Projects  
-
+- 🤖 **[CrewAI](https://github.com/Pratikshadk12/CrewAI)** – Multi-agent AI system for task automation.
+- 💬 **[LocalGPT](https://github.com/Pratikshadk12/LocalGPT)** – Private AI chatbot for document-based question answering.
+- 📊 **[ML Model Comparison](https://github.com/Pratikshadk12/ml-model-comparison)** – Compared ML algorithms using performance metrics.
 - 📚 **[Library Management System (C++)](https://github.com/Pratikshadk12/Library-Management-System)** – Console app to manage library books  
 - 🏦 **[Bank Management System (C)](https://github.com/Pratikshadk12/Bank-Management-System)** – Simple banking simulation with deposits & withdrawals  
 - 💰 **[Personal Expense Tracker (Java)](https://github.com/Pratikshadk12/Personal-Expense-Tracker)** – Track expenses with file storage  
