@@ -1,61 +1,272 @@
-## Hi there 👋  
+<h1 align="center">Hi 👋, I'm Pratiksha D K</h1>
 
-I’m **Pratiksha**, a Final Year **AIML Student** at **Reva University**, passionate about building practical coding projects and steadily growing my skills in programming, software development, and soon, AI/ML.  
+<h3 align="center">
+Final Year B.Tech Student • Artificial Intelligence & Machine Learning
+</h3>
 
----
+<p align="center">
+Aspiring AI Engineer | Software Engineer | Full Stack Developer
+</p>
 
-### 🛠️ Tech Stack  
+<p align="center">
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineering+Enthusiast;Building+AI-Powered+Applications;Generative+AI+%7C+Machine+Learning+%7C+Backend+Development;Always+Learning+Something+New+🚀" />
 
----
-
-### 🚀 Recent Projects  
-- 🤖 **[CrewAI](https://github.com/Pratikshadk12/CrewAI)** – Multi-agent AI system for task automation.
-- 💬 **[LocalGPT](https://github.com/Pratikshadk12/LocalGPT)** – Private AI chatbot for document-based question answering.
-- 📊 **[ML Model Comparison](https://github.com/Pratikshadk12/ml-model-comparison)** – Compared ML algorithms using performance metrics.
-- 📚 **[Library Management System (C++)](https://github.com/Pratikshadk12/Library-Management-System)** – Console app to manage library books  
-- 🏦 **[Bank Management System (C)](https://github.com/Pratikshadk12/Bank-Management-System)** – Simple banking simulation with deposits & withdrawals  
-- 💰 **[Personal Expense Tracker (Java)](https://github.com/Pratikshadk12/Personal-Expense-Tracker)** – Track expenses with file storage  
-- 🎓 **[Student Management System (Java)](https://github.com/Pratikshadk12/student-management-system)** – Manage student data with file handling
-- 🌤️ **[Weather App (Python)](https://github.com/Pratikshadk12/Weather-App)** – Tkinter-based GUI app fetching real-time weather via API
-- 🔑 **[Password Manager (Python)](https://github.com/Pratikshadk12/Password-Manager)** – Securely store and manage passwords using file handling
+</p>
 
 ---
 
-### 📅 Goals for 2025  
+# 👩‍💻 About Me
 
-- 📌 Build **10+ portfolio-worthy projects**  
-- 📌 Master **DSA & core programming** concepts  
-- 📌 Start working on **AI/ML-based projects** by year end  
-- 📌 Contribute to **open-source**  
+🎓 Final Year B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **REVA University**.
 
----
+💡 Passionate about solving real-world problems using AI, Machine Learning, Generative AI, and Software Engineering.
 
-### 📫 Connect with Me  
+🚀 Interested in
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratikshadk12)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-d-korishettar/)  
-[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikshavdk@gmail.com)  
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Backend Development
+- Full Stack Development
 
----
+🌱 Currently exploring
 
-### 📊 GitHub Stats  
-
-![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7)  
-
----
-
-### 📈 Contribution Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratikshadk12&theme=github-compact&hide_border=true&area=true&area_color=FF6EC7&line=FF6EC7&point=FFFFFF)  
+- AI Agents
+- Advanced RAG Systems
+- MLOps
+- System Design
+- Cloud Technologies
 
 ---
 
-### ⚡ Fun Fact  
+# 🛠 Tech Stack
 
-> I believe in **"Learning by Doing"**, so most of my projects are built from scratch to understand concepts better. 🚀  
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 LocalGPT-RAG
+
+Production-ready Retrieval-Augmented Generation platform built using Next.js, Python, Ollama, and modular AI pipelines for intelligent document conversations.
+
+**Tech:** Next.js • Python • Ollama • RAG • Docker
+
+---
+
+## 🛒 VendorConnect
+
+Smart platform connecting street vendors with nearby customers through a modern web interface.
+
+**Tech:** React • JavaScript • CSS
+
+---
+
+## 🤖 CrewAI
+
+Multi-agent AI workflow implementation demonstrating autonomous task execution and collaboration using CrewAI.
+
+---
+
+## 📊 ML Model Comparison
+
+Comparative analysis of machine learning algorithms across multiple datasets with performance visualization.
+
+**Tech:** Python • Scikit-learn • Pandas • Matplotlib
+
+---
+
+## 🎟 Event Booking App
+
+Full-stack event booking platform with event management and booking workflows.
+
+---
+
+## 🌦 Weather App
+
+Python-based weather application integrating real-time weather APIs.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshadk12&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pratikshadk12&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratikshadk12&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌟 Current Focus
+
+- Building AI-powered applications
+- Learning advanced RAG systems
+- Exploring AI Agents
+- Backend Development
+- System Design
+- Open Source Contributions
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about building intelligent software systems that combine Artificial Intelligence with scalable software engineering practices. My goal is to contribute to impactful products while continuously learning modern technologies in AI and Full Stack Development.
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/pratiksha-d-korishettar">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Pratikshadk12">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+If you like my work, consider exploring my repositories and connecting with me.
+
+</p>
