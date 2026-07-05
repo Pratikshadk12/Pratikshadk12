@@ -191,8 +191,7 @@ Python-based weather application integrating real-time weather APIs.
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?user=Pratikshadk12&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?user=Pratikshadk12&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
