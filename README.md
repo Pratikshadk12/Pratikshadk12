@@ -148,43 +148,56 @@ Aspiring AI Engineer | Software Engineer | Full Stack Developer
 
 ## 🧠 LocalGPT-RAG
 
-Production-ready Retrieval-Augmented Generation platform built using Next.js, Python, Ollama, and modular AI pipelines for intelligent document conversations.
+**Production-ready Retrieval-Augmented Generation platform using Next.js, Python, Ollama, Docker and modular AI pipelines.**
 
-**Tech:** Next.js • Python • Ollama • RAG • Docker
+🔗 Repository:  
+https://github.com/Pratikshadk12/localgpt-rag
 
 ---
 
 ## 🛒 VendorConnect
 
-Smart platform connecting street vendors with nearby customers through a modern web interface.
+**Smart platform connecting street vendors with nearby customers through an intuitive React interface.**
 
-**Tech:** React • JavaScript • CSS
+🔗 Repository:  
+https://github.com/Pratikshadk12/vendorconnect
 
 ---
 
 ## 🤖 CrewAI
 
-Multi-agent AI workflow implementation demonstrating autonomous task execution and collaboration using CrewAI.
+**Multi-agent AI workflow implementation demonstrating autonomous task execution and collaboration using CrewAI.**
+
+🔗 Repository:  
+https://github.com/Pratikshadk12/CrewAI
 
 ---
 
 ## 📊 ML Model Comparison
 
-Comparative analysis of machine learning algorithms across multiple datasets with performance visualization.
+**Comparative analysis of multiple Machine Learning algorithms across several datasets with visualization and evaluation metrics.**
 
-**Tech:** Python • Scikit-learn • Pandas • Matplotlib
+🔗 Repository:  
+https://github.com/Pratikshadk12/ml-model-comparision
 
 ---
 
 ## 🎟 Event Booking App
 
-Full-stack event booking platform with event management and booking workflows.
+**Full-stack web application for event discovery, booking, and management.**
+
+🔗 Repository:  
+https://github.com/Pratikshadk12/Event-Booking-App
 
 ---
 
 ## 🌦 Weather App
 
-Python-based weather application integrating real-time weather APIs.
+**Weather forecasting application built using Python and weather APIs.**
+
+🔗 Repository:  
+https://github.com/Pratikshadk12/Weather-App
+
 
 ---
 
