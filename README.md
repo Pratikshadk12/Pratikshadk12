@@ -193,7 +193,6 @@ Python-based weather application integrating real-time weather APIs.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=tokyonight" />
 </p>
----
 
 # 🔥 GitHub Streak
 
