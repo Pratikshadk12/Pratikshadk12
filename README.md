@@ -190,9 +190,9 @@ Python-based weather application integrating real-time weather APIs.
 
 # 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratikshadk12&show_icons=true&theme=tokyonight" />
-</p>
+# Test
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikshadk12)
 
 ---
 
